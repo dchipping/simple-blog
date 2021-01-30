@@ -1,4 +1,4 @@
-baseURL = "http://dchipping.github.io/"
+baseURL = "https://dchipping.github.io/"
 languageCode = "en-us"
 title = "Daniel Chipping"
 theme = "ink"
@@ -14,7 +14,7 @@ googleAnalytics = "UA-123-45"
 disqusShortname = "ink-demo"
 
 [params]
-	subtitle = "I write about Engineering, Entreprenurship and Technology"
+	subtitle = "I write about Engineering, Entrepreneurship & Technology"
 
 	# Optional 64x64 avatar image.
 	avatar = "https://avatars.githubusercontent.com/u/57810107"
