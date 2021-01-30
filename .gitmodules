@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/dchipping/dchipping.github.io.git
+	branch = main
