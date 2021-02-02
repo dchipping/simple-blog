@@ -11,10 +11,10 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 googleAnalytics = "UA-123-45"
-disqusShortname = "ink-demo"
+disqusShortname = "danielchipping"
 
 [params]
-	subtitle = "I write about Engineering, Entrepreneurship & Technology"
+	subtitle = "I write about Engineering, Entrepreneurship and Technology"
 
 	# Optional 64x64 avatar image.
 	avatar = "https://avatars.githubusercontent.com/u/57810107"
